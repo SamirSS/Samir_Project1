@@ -1,4 +1,6 @@
 # Samir_Project1
+note: sort of incomplete; not everything is working
+
 Project 1 for Creative Coding 1133_C
 
 Adjective: volcanic
